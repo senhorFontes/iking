@@ -1,0 +1,42 @@
+/* Block categories */
+#categories_block_left .tree {}
+#categories_block_left .tree li {
+	border: none;
+	padding-left:0;
+	background: none;
+	margin-left: 0;
+	font-size: 11px;
+	line-height:20px;
+}
+#categories_block_left .tree li.last { padding-bottom: 0 }
+#categories_block_left .tree ul { padding:0 0 0 14px;border-left:1px solid #e6e6e6;margin:7px 0 9px}
+#categories_block_left .tree li li {
+	background: none;
+	font-size: 11px;
+	font-weight: normal;line-height:17px;
+}
+#categories_block_left .tree li li a{color:#6e6e6e}
+#categories_block_left .tree li li a:hover{color:#3db0c1;text-decoration:underline}
+#categories_block_left .tree li li.last { padding-bottom: 0 }
+#categories_block_left .tree li li li {
+	padding-left: 15px;
+	font-size: 9px
+}
+#categories_block_left .tree a {
+	padding-left: 0;
+	color: #646464;
+	font-weight: 400;text-transform:none;
+}
+#categories_block_left .tree a:hover { text-decoration: none;color:#3DB0C1 }
+#categories_block_left ul.tree a.selected {color:#323232;font-weight:700}
+#categories_block_left span.grower {
+	display: block;
+	float: right;
+	background-position: 0 0;
+	background-repeat: no-repeat;margin-top:8px;
+	width: 7px;
+	height: 4px;
+	padding: 0
+}
+#categories_block_left span.OPEN { background-image: url('../../../img/icon/less.png') }
+#categories_block_left span.CLOSE { background-image: url('../../../img/icon/more.png') }

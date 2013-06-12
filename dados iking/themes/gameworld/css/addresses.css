@@ -1,0 +1,25 @@
+div.addresses{position:relative;width:100%;overflow:hidden}
+div.addresses p{float:left;margin-bottom:10px;width:100%}
+div.addresses p label{color:#505050;text-transform:none}
+div.addresses p.address_delivery label,div.addresses p#address_invoice_form label{color:#646464;float:left;font-weight:700;line-height:25px;width:30%}
+div.addresses p select{height:24px;margin-left:10px;width:300px; }
+div.addresses p.checkbox{padding-left:190px!important;width:70%}
+div.addresses #address_invoice_form{margin-left:0;margin-top:10px;padding-top:0!important;width:100%;}
+div.addresses p.address_add, div.addresses p#address_invoice_form{border-bottom:1px solid #e6e6e6;padding-bottom:20px;margin-bottom:12px;}
+div.addresses #address_invoice_form a.button_large,div.addresses .address_add a.button_large{float:left;margin-left:0!important;padding:0;width:200px;background:url(../img/button-large_add.png) no-repeat;color:#787878 !important;}
+div.addresses h3{margin:0}
+div.addresses p.checkbox input{height:auto;margin-top:4px!important;vertical-align:-2px}
+div.addresses ul.item{clear:both}
+ul.address{float:left;list-style-image:none;list-style-position:outside;list-style-type:none;margin-bottom:1em;margin-left:.25em;padding-bottom:.6em;position:relative;width:49%}
+ul.address li{line-height:20px;text-transform:none}
+li.address_title{color:#1e1e1e!important;font-size:14px!important;font-weight:700;height:25px;line-height:25px;text-transform:none!important}
+li.address_name,li.address_firstname,li.address_lastname{font-weight:700}
+span.address_name,span.address_firstname,span.address_lastname,span.address_update a,span.address_delete a{color:#4c4c4c}
+span.address_name,span.address_firstname,span.address_lastname,span.address_company{font-weight:700}
+li.address_update,li.address_delete{color:#323232;font-weight:700;margin-top:10px}
+.addresses #ordermsg{float:left;padding-top:5px;width:100%}
+.addresses #ordermsg p{color:#505050;padding-left:0}
+.addresses #ordermsg .textarea textarea{border:1px solid #e1e1e1;height:100px;width:578px;background:none}
+li.address_update a,li.address_delete a,l li.address_update a,li.address_delete a{color:#1e1e1e;font-size:11px;font-weight:700;text-transform:none}
+p.cart_navigation.submit{float:left;width:100%}
+p.cart_navigation.submit a.button{float:left}

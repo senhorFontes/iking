@@ -1,0 +1,17 @@
+.jspContainer{overflow:hidden;position:relative;padding-bottom:30px;}
+.jspPane{position:absolute}
+.jspVerticalBar{height:100%;position:absolute;right:0;top:0;width:16px}
+.jspHorizontalBar{bottom:0;height:11px;left:0;position:absolute;width:100%}
+.jspVerticalBar *,.jspHorizontalBar *{margin:0;padding:0}
+.jspCap{display:none}
+.jspHorizontalBar .jspCap{float:left}
+.jspTrack{position:relative}
+.jspHorizontalBar .jspDrag{cursor:pointer;height:5px;left:0;overflow:hidden;position:absolute;top:0;background:url("../img/bkg_jspDrag.png") repeat-x 0 0;border-radius:7px;-moz-border-radius:7px;}
+.jspHorizontalBar .jspTrack{height:5px;position:relative;width:100%;background:url("../img/bkg_jspTrack.png") repeat-x 0 0;border-radius:7px;-moz-border-radius:7px;}
+.jspArrow{background:#50506d;cursor:pointer;display:block;text-indent:-20000px}
+.jspArrow.jspDisabled{background:#80808d;cursor:default}
+.jspVerticalBar .jspArrow{height:16px}
+.jspHorizontalBar .jspArrow{float:left;height:100%;width:16px}
+.jspVerticalBar .jspArrow:focus{outline:none}
+.jspCorner{background:#eeeef4;float:left;height:100%}
+* html .jspCorner{margin:0 -3px 0 0}

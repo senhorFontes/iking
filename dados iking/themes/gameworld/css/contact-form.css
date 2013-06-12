@@ -1,0 +1,31 @@
+	#contact   #center_column  fieldset {
+		padding:0 0 15px 0;
+	}
+		#contact   #center_column  h3 {
+			margin:0 0 15px 0;
+			padding:8px;
+			font-size:14px;
+			color:#fff;
+			text-transform:uppercase;
+			background:url(../img/bg_form_h3.png) repeat-x 0 0 #989898
+		}
+		#contact   #center_column #center_column p {margin:0; padding:0 10px 10px;}
+		#contact   #center_column #center_column p.desc_contact { text-align: center; padding-left: 10px; padding-right: 10px; }
+		
+		#contact   #center_column p.text label,
+		#contact   #center_column p.select label,
+		#contact   #center_column p.select span,
+		#contact   #center_column p.textarea label {line-height:22px;text-align:left}
+		#contact   #center_column p.textarea label {vertical-align:top}
+		#contact   #center_column p.text input,
+		#contact   #center_column p.select input {
+			background:none;border:1px solid #d9d9d9;width:243px
+		}
+		#contact   #center_column p.select select {
+			background:none;border:1px solid #d9d9d9;width:265px!important;line-height:18px;
+		}
+		#contact   #center_column p.textarea textarea {
+			height:100px!important;width:243px!important
+		}
+		#contact   #center_column p.submit input {margin-left:185px!important;padding-bottom:3px;background:#28D0E9;border:none;color:#fff!important;float:left}
+		#fileUpload{line-height:17px;padding-top:2px;height:22px;}

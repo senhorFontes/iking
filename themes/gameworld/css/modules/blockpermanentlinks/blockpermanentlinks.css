@@ -1,0 +1,13 @@
+ul#header_links{  height: 25px;
+    position: absolute;
+    left: 0;
+    top:0;
+    width: auto;
+    z-index: 0;}
+#header_links li#header_link_home{margin-left:0;border:none}
+#header_links li{float:left;height:29px;width:auto;line-height:29px;border-left:1px solid #1f1e1e}
+#header_links li a{color:#969696;padding:0 10px;font-weight:700}
+#header_links li#header_link_home a{padding-left:0}
+#header_links li a:hover{color:#fff}
+#header_links li.active a{color:#fff}
+#header_links a{color:#969696;display:block;font-size:10px;height:29px;line-height:28px;text-align:center;text-decoration:none;text-transform:uppercase}

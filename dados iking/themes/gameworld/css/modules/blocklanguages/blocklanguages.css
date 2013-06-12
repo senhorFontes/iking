@@ -1,0 +1,25 @@
+/* block top languages */
+#header_right #languages_block_top {
+	margin:0;
+	float: right;border-left:1px solid #1f1e1e;padding-left:5px;margin-left:5px;height:29px;
+}
+#header_right #languages_block_top p {float:left;margin-top:4px; }
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+	#header_right #languages_block_top p.select{margin-top:3px;}
+	} /* hacked cho chrome và safari */
+#header_right #languages_block_top p.select{margin-top:3px\0;}
+#header_right #languages_block_top p.label{color:#969696;font-size:10px;font-weight:700;text-transform:uppercase;line-height:20px;padding-right:5px;}
+#header_right #languages_block_top p select {background:#010101;border:none;color:#fff;text-transform:uppercase;font-size:10px;}
+#header_right #languages_block_top p select  option{padding-right:10px;text-transform:uppercase!important;border:none;}
+#languages_block_top {
+	width: auto
+}
+#languages_block_top ul#first-languages li {
+	float: left;
+	margin-right: 3px
+}
+#languages_block_top ul#first-languages li.selected_language {
+	float: left;
+	margin-right: 0.3em
+}

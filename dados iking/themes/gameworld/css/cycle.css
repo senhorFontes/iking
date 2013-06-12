@@ -1,0 +1,9 @@
+.cycleElementsContainer{overflow:hidden;width:960px;background:url("../img/bkg_bottom_footer.png") no-repeat bottom left;padding-bottom:34px;margin-top:18px;position:relative;z-index:10;}
+.cycleElementsContainer li{border:none!important;color:#777;display:block;float:left;font-size:18px;font-weight:700;height:auto!important;margin:0!important;padding:0!important;text-align:center;width:170px!important}
+.cycleElementsContainer li img{max-height:50px;max-width:155px}
+.cycleElementsArrow{z-index:100}
+.cycleElementsContainer #cycle{float:left;overflow:hidden!important;position:relative;width:860px!important;z-index:1; padding:5px 0 0;margin:0 50px;}
+.cycleElementsContainer #cycle ul{height:auto;overflow:hidden!important;margin-top:15px;}
+.cycleElementsArrow a{height:47px;position:absolute;text-indent:-9999px;top:20px;width:35px;z-index:100}
+.cycleElementsArrow a#cprev{background-image:url(../img/icon/cprev.png);left:0}
+.cycleElementsArrow a#cnext{background-image:url(../img/icon/cnext.png);right:0}

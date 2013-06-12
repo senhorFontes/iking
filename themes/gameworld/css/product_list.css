@@ -1,0 +1,26 @@
+#category .cycleElementsContainer{margin-top:0}
+ul#product_list{margin-bottom:20px;list-style-type:none;padding-top:25px;overflow:hidden;width:100%;border-bottom:1px solid #e6e6e6;}
+ul#product_list li{float:left;position:relative;width:120px;margin:0 40px 0 0;padding-bottom:35px;min-height:280px;}
+ul#product_list li.last_item_of_line{margin-right:0;padding-right:0}
+* html ul#product_list li{height:auto!important}
+ul#product_list li a{text-decoration:none}
+ul#product_list a.product_img_link{text-align:center;display:block;}
+ul#product_list a.product_img_link img{vertical-align:bottom}
+ul#product_list li h3{margin:10px 0 2px!important;}
+ul#product_list li h3 a{color:#3db0c1;font-size:12px;font-weight:700;}
+ul#product_list li h3 a:hover{color:#646464}
+ul#product_list li p.product_desc{float:left;font-size:11px;margin:0 0 12px;padding:0;width:100%}
+ul#product_list li p.product_desc a{color:#716f61}
+ul#product_list li div.center_block{float:left;width:100%;margin:0!important}
+ul#product_list li div.center_block div{float:left;margin:0 0 5px!important;width:auto}
+ul#product_list li div.center_block .compare{color:#9c9a91;float:left;font-size:10px;margin:5px 0 0;padding:0;width:100%;font-weight:700}
+ul#product_list li div.right_block{margin-top:0;text-align:left;}
+ul#product_list li .discount,ul#product_list li .on_sale,ul#product_list li .online_only{color:#da0f00;display:block;font-weight:700;text-transform:uppercase}
+ul#product_list li .reduction{display:block;margin-bottom:.3em}
+ul#product_list li .price{color:#1e1e1e;display:block;float:left;font-size:14px;font-weight:700;width:100%;line-height:25px;}
+ul#product_list li div .button,ul#product_list li div .exclusive{color:#787878!important;float:left;font-size:10px!important;font-weight:700;line-height:25px!important;text-transform:uppercase;width:120px;border:none;background:url(../img/bkg_add_to_cart.png) no-repeat scroll 0 0 transparent;}
+ul#product_list li span.availability,ul#product_list li span.outofstock{float:left;font-size:10px;font-weight:700;margin:0 0 1px;width:100%}
+ul#product_list li span.availability{color:#60a01d;font-size:10px;font-weight:700;text-transform:uppercase}
+ul#product_list li span.outofstock{color:#db7518;font-size:10px;font-weight:700;text-transform:uppercase}
+ul#product_list li p.compare input{background:none;border:none;height:auto;margin:0 5px 0 0;padding:0;vertical-align:-3px}
+ul#product_list li p.compare{width:100%;margin:5px 0 10px;padding:10px 0 0;float:left;color:#7b7b7b;font-size:10px;font-weight:700;text-transform:lowercase;border-top:1px solid #e6e6e6;}

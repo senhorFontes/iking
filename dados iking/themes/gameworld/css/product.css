@@ -1,0 +1,63 @@
+ .share{width:auto;float:left;}
+#primary_block #pb-right-column{float:left;margin-right:40px;width:280px;}
+#primary_block #pb-right-column p{width:auto;float:left}
+#primary_block #pb-right-column #wrapResetImages{text-align:left;margin-right:10px;}
+#primary_block #pb-right-column #wrapResetImages a{color:#a0a0a0;font-size:10px;font-weight:700;text-transform:uppercase}
+#primary_block #pb-right-column #wrapResetImages img{display:none}
+#primary_block #image-block{text-align:center;width:280px}
+#primary_block #image-block img{cursor:pointer;}
+#primary_block ul#usefull_link_block{list-style-type:none;width:auto;float:left;margin-top:7px;}
+#primary_block ul#usefull_link_block li{color:#a0a0a0;display:block;font-size:10px;font-weight:700;text-transform:uppercase;padding-bottom:10px;}
+#primary_block ul#usefull_link_block li:hover,#primary_block ul#usefull_link_block li a:hover{color:#3DB0C1;text-decoration:none}
+#primary_block ul#usefull_link_block li a,#primary_block ul#usefull_link_block span.span_link,#primary_block ul#usefull_link_block span.span_link:hover{color:#a0a0a0;font-size:10px;padding:0 10px 0 0;text-decoration:none}
+#primary_block ul#usefull_link_block span.span_link:hover{text-decoration:underline}
+#primary_block #pb-left-column{float:left;position:relative;width:280px}
+#primary_block #pb-left-column .price{overflow:hidden;display:block;padding-bottom:5px}
+#primary_block #pb-left-column h1{color:#12b3cb;font-size:20px;font-weight:700;margin:0 0 10px;border:none;}
+#primary_block #pb-left-column .category_name{color:#7a7a7a;font-size:11px;font-weight:700;margin:0 0 13px;}
+#primary_block #pb-left-column .availability{color:#60a01d;float:left;font-size:10px;font-weight:700;margin-bottom:5px;text-transform:uppercase;width:auto;margin-right:10px;}
+#primary_block #pb-left-column .outofstock{color:#CA440A;float:left;font-size:10px;font-weight:700;margin-bottom:5px;text-transform:uppercase}
+#primary_block #short_description_block{float:left;margin-bottom:5px;width:100%}
+#primary_block #color_picker p{color:#373d42;font-size:11px;font-weight:700;margin-bottom:.4em;padding:0}
+#primary_block #color_picker{display:none;float:left;padding:.6em .7em .4em 0;width:95%}
+#primary_block #color_to_pick_list li{display:inline;float:left;margin:0 .4em .4em 0}
+#primary_block a.color_pick{cursor:pointer;display:block;height:17px;width:17px}
+#primary_block a.color_pick:hover{border:1px solid #000}
+#primary_block a#color_all{cursor:pointer}
+#primary_block #image-block img#bigpic.jqzoom{cursor:crosshair;position:relative}
+#primary_block p.buttons_bottom_block{float:right!important;width:auto}
+#primary_block p.buttons_bottom_block a,#primary_block p.buttons_bottom_block input{background:transparent url(../img/bkg_add_to_cart.png) no-repeat;color:#787878 !important;float:left;font-size:10px!important;font-weight:700;width:120px}
+#primary_block #short_description_content{margin:12px 0 5px;}
+#primary_block #buy_block{color:#787878;float:left;font-size:1.1em;margin-bottom:1.5em;position:relative;width:100%}
+#primary_block #buy_block p label,#primary_block #buy_block p #availability_label,#primary_block #buy_block p #availability_label,.product_attributes  #attributes .attribute_fieldset label{color:#716f61;font-size:11px;font-weight:400;margin-top:5px;text-transform:none;width:25%}
+.product_attributes  #attributes .attribute_fieldset label{#margin-top:3px;}
+#quantity_wanted_p label{width:25%!important}
+#primary_block #buy_block p{float:none;margin-top:0;padding:0}
+#primary_block #buy_block p#pQuantityAvailable,#primary_block #buy_block p#last_quantities{float:left;margin-top:10px;width:100%;display:none!important}
+#primary_block #buy_block span.on_sale{color:#da0f00;float:right;font-weight:700;text-transform:uppercase}
+#primary_block #buy_block span.discount{color:#a92e0a;float:left;font-size:16px;font-weight:700;text-transform:none}
+#primary_block #buy_block span.our_price_display{color:#a92e0a;float:left;font-size:12px;font-weight:700;clear:left}
+#primary_block #buy_block span.our_price_display span{color:#a92e0a;font-size:20px}
+#availability_statut #availability_label{margin-top:4px}
+#primary_block #buy_block label{display:block;float:left;text-align:left}
+#primary_block #buy_block select {    width:210px;}
+#primary_block div#attributes p,#quantity_wanted_p{clear:left;height:25px}
+#primary_block div#attributes p,#minimal_quantity_wanted_p{clear:left;margin-top:5px;text-align:center}
+#primary_block #buy_block p.price{border-bottom:1px solid #e6e6e6;border-top:1px solid #e6e6e6;font-size:1.05em;height:50px;line-height:23px;margin-bottom:20px;padding:15px 0 12px;text-align:left;width:100%}
+#primary_block #buy_block p#old_price{display:none;float:left;font-size:12px;text-align:left;width:auto}
+#primary_block #buy_block p#old_price span{color:#a0a0a0;font-size:12px;font-weight:700;}
+#primary_block #buy_block p#reduction_percent{color:#a0a0a0;display:none;font-size:12px;text-align:left;float:left;font-weight:700}
+#admin-action{background-color:#DFFAD3;border:1px solid #72CB67;color:#374853;margin-bottom:10px;padding:4px}
+#admin-action input.exclusive{float:right}
+.product_accessories_price{margin-top:5px}
+.product_attributes{border-top:1px solid #e6e6e6;margin-top:15px;padding-top:20px;}
+#attributes,#quantity_wanted_p,#availability_statut{overflow:hidden;width:100%;display:block}
+#attributes{margin-bottom:2px;}
+#quantity_wanted_p input{background:none;border:1px solid #dadada;float:left;height:23px;line-height:23px;margin:0;padding:0 0 0 2px !important;width:40px}
+#availability_statut #availability_value{float:left;font-size:11px;margin-top:5px}
+#primary_block #buy_block span#pretaxe_price,#primary_block #buy_block p.price-ecotax{font-size:.75em;text-align:left}
+#usefull_link_block a,#usefull_link_block span{display:block}
+#product .left-buyblock{clear:left;float:left;margin-top:35px;width:100%}
+#primary_block #buy_block img.on_sale_img,#primary_block #buy_block span#availability_label{float:left}
+.product_accessories_price{margin-top:5px}
+.product_attributes  #attributes .attribute_fieldset{border:none;margin:0 0 5px;display:block;overflow:hidden;width:100%;float:left}
