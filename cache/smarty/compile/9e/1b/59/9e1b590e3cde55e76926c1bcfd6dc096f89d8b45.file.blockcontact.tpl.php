@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.13, created on 2013-06-11 11:17:39
+<?php /* Smarty version Smarty-3.1.13, created on 2013-06-12 18:36:32
          compiled from "C:\wamp\www\iking\modules\blockcontact\blockcontact.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:393451b73f932407e0-55083122%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:2874351b8f7f0201664-32652563%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,7 +11,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '393451b73f932407e0-55083122',
+  'nocache_hash' => '2874351b8f7f0201664-32652563',
   'function' => 
   array (
   ),
@@ -22,9 +22,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.13',
-  'unifunc' => 'content_51b73f933b7ad3_00493546',
+  'unifunc' => 'content_51b8f7f024b6c8_05210945',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_51b73f933b7ad3_00493546')) {function content_51b73f933b7ad3_00493546($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_escape')) include 'C:\\wamp\\www\\iking\\tools\\smarty\\plugins\\modifier.escape.php';
+<?php if ($_valid && !is_callable('content_51b8f7f024b6c8_05210945')) {function content_51b8f7f024b6c8_05210945($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_escape')) include 'C:\\wamp\\www\\iking\\tools\\smarty\\plugins\\modifier.escape.php';
 ?>
 
 <div id="contact_block" class="block">

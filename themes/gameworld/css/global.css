@@ -211,13 +211,13 @@ h4 { font-size: 12px; }
 #header{position:relative;min-height:249px;margin-bottom:20px;width:960px;margin:0 auto;#z-index:10;}
 #index  #header{min-height:197px;}
 .top_footer, #footer{overflow:hidden;position:relative;width:100%;}
-.logo_pres{width:315px;overflow:hidden}
+.logo_pres{width:auto;overflow:hidden}
 #header_logo {
 	float: left;
 	width: auto;
-	display: block;z-index:100;
+	display: block;z-index:100; 
 }
-#header_logo img.logo{max-width:283px;max-height:65px;}
+#header_logo img.logo{max-width:auto;max-height:auto;}
 img.logo {
 	float: left;
 	font-size: 2em;margin-top:60px;

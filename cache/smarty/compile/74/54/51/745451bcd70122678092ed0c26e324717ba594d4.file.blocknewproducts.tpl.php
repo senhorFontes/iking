@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.13, created on 2013-06-11 11:17:38
+<?php /* Smarty version Smarty-3.1.13, created on 2013-06-12 18:36:31
          compiled from "C:\wamp\www\iking\modules\blocknewproducts\blocknewproducts.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:1021151b73f9290e414-44772567%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:2042451b8f7efd23a65-60437089%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,7 +11,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '1021151b73f9290e414-44772567',
+  'nocache_hash' => '2042451b8f7efd23a65-60437089',
   'function' => 
   array (
   ),
@@ -25,9 +25,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.13',
-  'unifunc' => 'content_51b73f92b426b1_59323337',
+  'unifunc' => 'content_51b8f7efe6d397_32597383',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_51b73f92b426b1_59323337')) {function content_51b73f92b426b1_59323337($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_escape')) include 'C:\\wamp\\www\\iking\\tools\\smarty\\plugins\\modifier.escape.php';
+<?php if ($_valid && !is_callable('content_51b8f7efe6d397_32597383')) {function content_51b8f7efe6d397_32597383($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_escape')) include 'C:\\wamp\\www\\iking\\tools\\smarty\\plugins\\modifier.escape.php';
 ?>
 
 <!-- MODULE Block new products -->

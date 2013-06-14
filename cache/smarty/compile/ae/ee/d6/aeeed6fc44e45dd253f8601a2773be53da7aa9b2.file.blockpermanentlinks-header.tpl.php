@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.13, created on 2013-06-11 11:17:32
+<?php /* Smarty version Smarty-3.1.13, created on 2013-06-12 18:36:30
          compiled from "C:\wamp\www\iking\themes\gameworld\modules\blockpermanentlinks\blockpermanentlinks-header.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:3152951b73f8c486f17-08290072%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:2171851b8f7ee4b16a0-31620118%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,7 +11,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '3152951b73f8c486f17-08290072',
+  'nocache_hash' => '2171851b8f7ee4b16a0-31620118',
   'function' => 
   array (
   ),
@@ -24,9 +24,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.13',
-  'unifunc' => 'content_51b73f8c61f7d3_71637342',
+  'unifunc' => 'content_51b8f7ee552ed9_62742434',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_51b73f8c61f7d3_71637342')) {function content_51b73f8c61f7d3_71637342($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_escape')) include 'C:\\wamp\\www\\iking\\tools\\smarty\\plugins\\modifier.escape.php';
+<?php if ($_valid && !is_callable('content_51b8f7ee552ed9_62742434')) {function content_51b8f7ee552ed9_62742434($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_escape')) include 'C:\\wamp\\www\\iking\\tools\\smarty\\plugins\\modifier.escape.php';
 ?>
 
 <!-- Block permanent links module HEADER -->

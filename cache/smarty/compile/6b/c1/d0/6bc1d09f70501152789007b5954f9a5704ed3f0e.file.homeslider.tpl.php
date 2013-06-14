@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.13, created on 2013-06-11 11:17:39
+<?php /* Smarty version Smarty-3.1.13, created on 2013-06-12 18:36:32
          compiled from "C:\wamp\www\iking\modules\homeslider\homeslider.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:2438351b73f93560918-59237161%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:830851b8f7f02e63e1-19209434%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,7 +11,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '2438351b73f93560918-59237161',
+  'nocache_hash' => '830851b8f7f02e63e1-19209434',
   'function' => 
   array (
   ),
@@ -23,9 +23,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.13',
-  'unifunc' => 'content_51b73f9366f590_03842144',
+  'unifunc' => 'content_51b8f7f03960e5_75804504',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_51b73f9366f590_03842144')) {function content_51b73f9366f590_03842144($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_escape')) include 'C:\\wamp\\www\\iking\\tools\\smarty\\plugins\\modifier.escape.php';
+<?php if ($_valid && !is_callable('content_51b8f7f03960e5_75804504')) {function content_51b8f7f03960e5_75804504($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_escape')) include 'C:\\wamp\\www\\iking\\tools\\smarty\\plugins\\modifier.escape.php';
 ?>
 
 <!-- Module HomeSlider -->

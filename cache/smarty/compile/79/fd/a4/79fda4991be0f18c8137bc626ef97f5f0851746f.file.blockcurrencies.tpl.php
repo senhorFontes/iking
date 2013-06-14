@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.13, created on 2013-06-11 11:17:32
+<?php /* Smarty version Smarty-3.1.13, created on 2013-06-12 18:36:30
          compiled from "C:\wamp\www\iking\themes\gameworld\modules\blockcurrencies\blockcurrencies.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:2475251b73f8c2c8cf8-97302689%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:433751b8f7ee454748-05932634%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,7 +11,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '2475251b73f8c2c8cf8-97302689',
+  'nocache_hash' => '433751b8f7ee454748-05932634',
   'function' => 
   array (
   ),
@@ -24,9 +24,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.13',
-  'unifunc' => 'content_51b73f8c388441_81309354',
+  'unifunc' => 'content_51b8f7ee48e6f8_70037718',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_51b73f8c388441_81309354')) {function content_51b73f8c388441_81309354($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_51b8f7ee48e6f8_70037718')) {function content_51b8f7ee48e6f8_70037718($_smarty_tpl) {?>
 
 <!-- Block currencies module -->
 <div id="currencies_block_top">

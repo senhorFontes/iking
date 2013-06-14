@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.13, created on 2013-06-11 11:17:38
+<?php /* Smarty version Smarty-3.1.13, created on 2013-06-12 18:36:32
          compiled from "C:\wamp\www\iking\themes\gameworld\modules\blockstore\blockstore.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:15351b73f92e275f0-96061246%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:807051b8f7f013d5a0-21919569%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,7 +11,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '15351b73f92e275f0-96061246',
+  'nocache_hash' => '807051b8f7f013d5a0-21919569',
   'function' => 
   array (
   ),
@@ -23,9 +23,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.13',
-  'unifunc' => 'content_51b73f92eacd85_69765624',
+  'unifunc' => 'content_51b8f7f018a218_42003896',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_51b73f92eacd85_69765624')) {function content_51b73f92eacd85_69765624($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_51b8f7f018a218_42003896')) {function content_51b8f7f018a218_42003896($_smarty_tpl) {?>
 
 <!-- Block stores module -->
 <div id="stores_block_left" class="block">
