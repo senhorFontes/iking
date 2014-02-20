@@ -1,6 +1,7 @@
 <?php
 /*
 * 2007-2013 PrestaShop
+* Rafael Braga alterou aqui...
 *
 * NOTICE OF LICENSE
 *
